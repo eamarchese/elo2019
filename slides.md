@@ -78,9 +78,6 @@ Kristin Veel, "The Irreducibility of Space"
 <img src="img/matin5.png" width="20%">
 <img src="img/matin6.png" width="20%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<object width="640" height="800" type="text/html" data="https://www.arnaudmaisetti.net/spip/spip.php?article1266">
-</object>
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <img src="img/menard1.png" width="20%">
 <img src="img/menard2.png" width="20%">
 <img src="img/menard3.png" width="20%">
