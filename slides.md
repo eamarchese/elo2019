@@ -105,7 +105,7 @@ Kristin Veel, "The Irreducibility of Space"
   - Our relationship to space has changed
   - Location becomes a literary material
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/arbre1.png">
+<img src="img/arbre2.png">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <img src="img/2019derive7.png">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
